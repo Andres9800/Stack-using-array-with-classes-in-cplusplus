@@ -1,0 +1,3 @@
+C:/Users/wtla2/CLionProjects/Pila Interfaz/cmake-build-debug/CMakeFiles/Pila_Interfaz.dir
+C:/Users/wtla2/CLionProjects/Pila Interfaz/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wtla2/CLionProjects/Pila Interfaz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
